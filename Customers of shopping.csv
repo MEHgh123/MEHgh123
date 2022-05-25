@@ -1,0 +1,50 @@
+Customer ID,customer name,order date,points,order id,product name,price
+AB-100151402,Ali Mohammadi,11/11/2019,40098,CA-2014-AB10015140-41954,Samsung Convoy 3,221.98
+JR-162107,Mehdi Amini,2/5/2019,26341,IN-2014-JR162107-41675,"Novimex Executive Leather Armchair, Black",3709.40
+CR-127307,Mohammad Bayati,17/10/2019,25330,IN-2014-CR127307-41929,"Nokia Smart Phone, with Caller ID",5175.17
+KM-1637548,Mehran Murovati,28/1/2019,13524,ES-2014-KM1637548-41667,"Motorola Smart Phone, Cordless",2892.51
+RH-9495111,Davood Hemati,11/5/2019,47221,SG-2014-RH9495111-41948,"Sharp Wireless Fax, High-Speed",2832.96
+JM-156557,Javad Nemati,28/6/2019,22732,IN-2014-JM156557-41818,"Samsung Smart Phone, with Caller ID",2862.68
+TS-2134092,Ahmad Babayi,11/6/2017,30570,IN-2012-TS2134092-41219,"Novimex Executive Leather Armchair, Adjustable",1822.08
+MB-1808592,Fariborz Tehrani,14/4/2018,31192,IN-2013-MB1808592-41378,"Chromcraft Conference Table, Fully Assembled",5244.84
+AB-100151402,Farzad Heshmati,11/11/2019,40099,CA-2014-AB10015140-41954,"Sauder Facets Collection Library, Sky Alder Finish",341.96
+AB-100151404,Arman Navabi,3/6/2017,36258,CA-2012-AB10015140-40974,"Global Push Button Manager's Chair, Indigo",48.71
+AB-100151404,Milad Bahmani,3/6/2017,36259,CA-2012-AB10015140-40974,Newell 330,17.94
+AJ-107801,Shahin Khalaj,4/19/2018,28879,ID-2013-AJ107801-41383,"Bevis Conference Table, Fully Assembled",4626.15
+MM-7260110,Jalal Ahmadi,12/26/2017,45794,SA-2012-MM7260110-41269,"Cisco Smart Phone, with Caller ID",2616.96
+VF-2171518,Zahra Taherkhani,11/13/2018,4132,MX-2013-VF2171518-41591,"Harbour Creations Executive Leather Armchair, Adjustable",2221.80
+PF-1912027,Mehran Mosavi,6/6/2019,27704,IN-2014-PF1912027-41796,"KitchenAid Microwave, White",3701.52
+BP-1118545,Mohammad hossein Karimi,7/31/2020,13779,ES-2015-BP1118545-42216,"Breville Refrigerator, Red",1869.59
+AB-100151402,Karim Jalali,2/19/2017,39519,CA-2012-AB10015140-40958,Akro Stacking Bins,12.62
+PJ-1883564,Yashar Tehrani,9/8/2020,12069,ES-2015-PJ1883564-42255,"Hoover Stove, Red",7958.58
+JS-156857,Jim Sink,1/31/2015,22096,IN-2015-JS156857-42035,"Brother Fax Machine, High-Speed","$2,565.59"
+RH-9555129,Ritsa Hightower,12/5/2015,49463,TZ-2015-RH9555129-42343,"KitchenAid Stove, White","$3,409.74"
+AB-600103,Ann Blume,8/8/2013,46630,PL-2013-AB600103-41494,"Hon Computer Table, with Bottom Storage","$1,977.72"
+AB-100151404,Aaron Bergman,3/6/2012,36260,CA-2012-AB10015140-40974,"Carina 42""Hx23 3/4""W Media Storage Unit",$242.94
+JK-1532527,Jason Klamczynski,5/1/2012,21586,IN-2012-JK1532527-41030,"SAFCO Executive Leather Armchair, Black","$2,754.00"
+LB-16795139,Laurel Beltran,2/27/2014,13528,ES-2014-LB16795139-41697,"KitchenAid Refrigerator, Black","$5,273.70"
+NP-1832582,Naresj Patel,7/31/2015,1570,US-2015-NP1832582-42216,"Motorola Smart Phone, Full Size","$1,713.84"
+VD-2167039,Valerie Dominguez,9/5/2015,3484,MX-2015-VD2167039-42252,"Hon Computer Table, Fully Assembled","$2,106.50"
+PB-19210127,Phillip Breyer,12/16/2012,30191,IN-2012-PB19210127-41259,"Lesro Conference Table, with Bottom Storage","$1,715.16"
+EB-1411048,Eugene Barchas,3/13/2012,11645,ES-2012-EB1411048-40981,"Hoover Stove, Red","$3,069.74"
+AH-100301406,Aaron Hawkins,4/21/2012,38460,CA-2012-AH10030140-41020,Staples,$247.84
+BP-1123058,Benjamin Patterson,2/24/2013,22999,IN-2013-BP1123058-41329,"Office Star Executive Leather Armchair, Red","$1,878.72"
+RR-1952536,Rick Reed,12/27/2012,220,US-2012-RR1952536-41270,"Samsung Smart Phone, VoIP","$1,696.64"
+BS-1136545,Bill Shonely,7/17/2013,10648,ES-2013-BS1136545-41472,"Okidata Inkjet, Wireless","$2,402.87"
+AH-100301404,Aaron Hawkins,12/27/2013,40977,CA-2013-AH10030140-41635,Geemarc AmpliPOWER60,$668.16
+DP-131057,Dave Poirier,11/2/2012,21286,IN-2012-DP131057-41215,"Breville Stove, Red","$2,526.93"
+AH-100301404,Aaron Hawkins,12/27/2013,40976,CA-2013-AH10030140-41635,Fellowes Super Stor/Drawer Files,$323.10
+AH-1003033,Aaron Hawkins,9/13/2012,47905,CG-2012-AH1003033-41165,"Apple Smart Phone, Full Size","$3,817.26"
+AH-100301404,Aaron Hawkins,5/12/2012,36651,CA-2012-AH10030140-41041,"Iceberg Nesting Folding Chair, 19w x 6d x 43h",$279.46
+AH-100301406,Aaron Hawkins,12/30/2012,40100,CA-2012-AH10030140-41273,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 10/Pack",$34.77
+PO-18865139,Patrick O'Donnell,1/14/2015,15380,ES-2015-PO18865139-42018,"Brother Fax Machine, Laser","$4,141.02"
+DL-128657,Dan Lawera,1/10/2012,28046,IN-2012-DL128657-40918,"Nokia Smart Phone, with Caller ID","$2,875.10"
+JB-1600059,Joy Bell-,8/22/2014,21316,ID-2014-JB1600059-41873,"Motorola Smart Phone, Full Size","$3,200.60"
+BF-1100558,Barry Franz,11/11/2015,29272,IN-2015-BF1100558-42319,"Motorola Smart Phone, with Caller ID","$4,518.78"
+VG-2180558,Vivek Grady,9/26/2015,25795,IN-2015-VG2180558-42273,"Sauder Classic Bookcase, Traditional","$5,667.87"
+GT-14710139,Greg Tran,12/13/2013,16681,ES-2013-GT14710139-41621,"Motorola Smart Phone, Cordless","$5,785.02"
+ZC-2191048,Zuschuss Carroll,9/22/2012,15953,IT-2012-ZC2191048-41174,"Cuisinart Stove, Silver","$3,018.62"
+AH-100301408,Aaron Hawkins,3/21/2014,34608,CA-2014-AH10030140-41719,"Eldon Image Series Desk Accessories, Ebony",$86.45
+EB-1384045,Ellis Ballard,3/8/2014,13847,IT-2014-EB1384045-41706,"Office Star Executive Leather Armchair, Adjustable","$2,092.50"
+AP-1091527,Arthur Prichep,8/28/2015,24341,IN-2015-AP1091527-42244,"Novimex Executive Leather Armchair, Red","$2,761.20"
+SW-2027558,Scott Williamson,5/1/2015,28701,IN-2015-SW2027558-42125,"Konica Inkjet, White","$2,174.13"
